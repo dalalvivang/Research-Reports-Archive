@@ -1,6 +1,6 @@
 # Research Archive:
 
-A centralized repository of self-authored company evaluations, sector breakdowns, and market studies. Each report tracks fundamental drivers, competitive positioning, and shifting industry trends, with specific analytical scopes and timelines documented internally.
+A centralized repository of self authored company evaluations, sector breakdowns, and market studies. Each report tracks fundamental drivers, competitive positioning, and shifting industry trends, with specific analytical scopes and timelines documented internally.
 
 ## Reports
 
