@@ -1,4 +1,4 @@
-# Jainam Broking Limited — Company Report
+# Jainam Broking Limited - Company Report
 
 A company analysis report prepared during a summer internship at Jainam Broking Limited (June–September 2025), examining the firm's departmental structure, business operations, and strategic initiatives across the financial services sector.
 
