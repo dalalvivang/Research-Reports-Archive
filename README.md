@@ -10,3 +10,6 @@ A centralized repository of self authored company evaluations, sector breakdowns
 
 More reports will be added here over time.
 
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This research report by Vivang Dalal is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
