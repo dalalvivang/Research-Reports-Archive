@@ -1,6 +1,6 @@
-# Research Reports
+# Research Archive:
 
-A collection of company, industry, and market research reports produced during my Bachelor of Management Studies (International Business) coursework and internships at Bhagwan Mahavir University.
+A centralized repository of self-authored company evaluations, sector breakdowns, and market studies. Each report tracks fundamental drivers, competitive positioning, and shifting industry trends, with specific analytical scopes and timelines documented internally.
 
 ## Reports
 
