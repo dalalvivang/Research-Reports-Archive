@@ -7,8 +7,8 @@ A centralized repository of self authored company evaluations, sector breakdowns
 | Report | Type | Description |
 |---|---|---|
 | [Jainam Broking Limited](jainam-broking-company-report/) | Company Analysis | Departmental structure, business operations, and strategic initiatives of a financial services firm, based on a summer internship (2025) |
-| [Battery Energy Storage System (BESS)](bess-industry-report/) | Industry & Market Report | India-focused BESS market analysis with global context — market sizing, policy landscape, technology risk, CapEx/OpEx modeling, and investment recommendations |
-| [Goldiam International Ltd.](goldiam-international-equity-research/) | Equity Research | Two-part equity research report covering the Gem & Jewellery / Lab-Grown Diamond industry and company-level analysis of Goldiam International (NSE: GOLDIAM) |
+| [Battery Energy Storage System (BESS)](bess-industry-report/) | Industry & Market Report | India focused BESS market analysis with global context like market sizing, policy landscape, technology risk, CapEx/OpEx modeling, and investment recommendations |
+| [Goldiam International Ltd.](goldiam-international-equity-research/) | Equity Research | Two part equity research report covering the Gem & Jewellery / Lab-Grown Diamond industry and company level analysis of Goldiam International (NSE: GOLDIAM) |
 
 More reports will be added here over time.
 
